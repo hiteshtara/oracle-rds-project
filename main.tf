@@ -1,6 +1,6 @@
 terraform {
   backend "remote" {
-    organization = "your-org-name"
+    organization = "mukadder1972"
 
     workspaces {
       name = "oracle-rds-loader"
