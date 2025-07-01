@@ -1,0 +1,10 @@
+.env
+.aws/
+*.zip
+.terraform/
+*.tfstate
+*.tfstate.backup
+*.log
+.vscode/
+.idea/
+.DS_Store
